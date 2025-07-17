@@ -39,7 +39,7 @@ O segundo parâmetro deve ser maior que o primeiro
 
 1. Clone este repositório:
    ```bash
-   git clone <url-do-repositorio>
+   git clone https://github.com/guilhermedomeneghini/DesafioControleFluxoDio
    ```
 2. Abra o projeto em sua IDE Java favorita (IntelliJ, Eclipse, VS Code, etc).
 3. Execute a classe `Contador`.
